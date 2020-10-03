@@ -1,0 +1,9 @@
+body {
+  padding: 0;
+}
+
+nav_header {
+  width: 100px;
+  height: 20px;
+  background-color: cornflowerblue;
+}
